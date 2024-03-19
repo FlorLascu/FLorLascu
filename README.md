@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # 🚀 Florencia Lascurain
+=======
+# Florencia Lascurain
+**`Data Enthusiast'**
+>>>>>>> 834bc78fe196fe90ae10cf690dce918b55c41b8e
 
 ```
 Data Enthusiast (Big Data/Data Scientist/Data Analyst)
