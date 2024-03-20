@@ -30,8 +30,7 @@ Florencia.lascurain@gmail.com <br>
 <img align="left" alt="Pandas" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-plain.svg" />
 <img align="left" alt="MySQL" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 <img align="left" alt="SQLalchemy" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
-<img align="left" alt="Scikitlearn" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn
-/scikitlearn-original.svg" /><br>
+<img align="left" alt="Scikitlearn" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /><br>
 
 <br>
 <br>
